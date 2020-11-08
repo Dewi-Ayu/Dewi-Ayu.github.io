@@ -11,7 +11,8 @@ function App() {
       </Main>
       <Footer>
         <FooterInner>
-          View the code on{" "}
+          Nama {" "}<a href="https://github.com/Dewi-Ayu/dewi-ayu.github.io">Dewi Ayu Anggraini_1119101756</a><br/>
+          thank {" "}
           <a href="https://github.com/Clarity-89/React_tic_tac_toe">Github</a>
         </FooterInner>
       </Footer>
