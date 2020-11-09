@@ -1,7 +1,7 @@
 {
   "name": "react_tic_tac_toe",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://dewi-ayu.github.io/",
   "dependencies": {
     "gh-pages": "^2.2.0",
